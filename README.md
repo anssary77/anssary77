@@ -75,8 +75,8 @@ Laravel-based system for managing fleets and operations. Includes authentication
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-el-anssary-797a41385/)  
-- 📧 [Email:](elanssary77@gmail.com)
-- 🌐 [Portfolio:](https://anssary.netlify.app) 
+- 📧 [Email](elanssary77@gmail.com)
+- 🌐 [Portfolio](https://anssary.netlify.app) 
 
 ---
 
