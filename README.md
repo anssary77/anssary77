@@ -43,16 +43,22 @@ Full Stack Laravel Developer focused on building scalable ERP systems, CRM platf
 ---
 
 ## 📂 Featured Projects  
+
 🔹[Eduflow ERP & CRM](https://github.com/anssary77/Eduflow-ERP-CRM)
 Enterprise educational management platform with CRM, finance, scheduling, and student operations.
+
 🔹[Acc System](https://github.com/anssary77/Smart-Accounting-Platform)
 Modern accounting and financial management platform with analytics and reporting.
+
 🔹[HR System](https://github.com/anssary77/HR-Management-System)
 Employee operations platform with payroll, attendance, and organizational management.
+
 🔹[SafeSide Insurance Platform](https://github.com/anssary77/Insurance-Management-Platform)
 Insurance workflow system supporting claims, customer requests, and policy management.
+
 🔹 [Fleet Management System](https://github.com/anssary77/Fleet-M_S)  
-*Laravel-based system for managing fleets and operations. Includes authentication, role-based access, and database integration.*  
+Laravel-based system for managing fleets and operations. Includes authentication, role-based access, and database integration. 
+
 
 ---
 
